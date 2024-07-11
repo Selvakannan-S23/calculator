@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://wallpapers.com/images/hd/red-and-blue-calculators-yxm0myfzuym67431.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px;
+
+}
+h1{
+    color:black;
+    font-size: x-large;
+    
+}
+table,tr,td{
+    
+    border-collapse: collapse;
+    width:90px;
+    height: 90px;
+    font-weight: 900;
+}
+
+div{
+    background-color: rgb(95, 91, 91);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 480px;
+    
+}
+
+button{
+    width: 90px;
+    height: 90px;
+    font-size: xx-large;
+    background-color: rgba(12, 53, 236, 0.548);
+    color: white;
+    border-radius: 20px;
+}
+
+button:hover{
+    color:aqua
+}
+
+input{
+    width:400px;
+    height: 70px;
+    margin-bottom: 35px;
+    border: 3px solid black;
+    font-size: x-large;
+    color: black;
+}
+
+#result:focus{
+    background-color: hotpink;
+    color: white;
+}
